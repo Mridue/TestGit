@@ -58,7 +58,7 @@ public class Robot {
 			System.out.println("error!i can not fly over 2 feet");
 		} else {
 			System.out.println("Flying");
-			batteryLevel = batteryLevel - 20;
+			batteryLevel = batteryLevel - 15;
 			System.out.println(batteryLevel + "%");
 		}
 	}
